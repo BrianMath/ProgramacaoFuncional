@@ -41,7 +41,6 @@ init2 l = take ((length l) - 1) l
 ------ 6)
 
 
-
 dobro x = x + x
 quadruplo x = dobro (dobro x)
 
